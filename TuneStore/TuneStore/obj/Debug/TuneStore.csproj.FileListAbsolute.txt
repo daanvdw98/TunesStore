@@ -1,0 +1,9 @@
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\bin\Debug\TuneStore.exe.config
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\bin\Debug\TuneStore.exe
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\bin\Debug\TuneStore.pdb
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.csprojResolveAssemblyReference.cache
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.TuneStore.resources
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.Properties.Resources.resources
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.csproj.GenerateResource.Cache
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.exe
+C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.pdb
