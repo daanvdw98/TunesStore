@@ -51,6 +51,7 @@
             this.btnShow = new System.Windows.Forms.Button();
             this.sfdMusic = new System.Windows.Forms.SaveFileDialog();
             this.ofdMusic = new System.Windows.Forms.OpenFileDialog();
+            this.tbShowLocations = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -162,21 +163,21 @@
             // miSaveAs
             // 
             this.miSaveAs.Name = "miSaveAs";
-            this.miSaveAs.Size = new System.Drawing.Size(118, 22);
+            this.miSaveAs.Size = new System.Drawing.Size(152, 22);
             this.miSaveAs.Text = "Save as..";
             this.miSaveAs.Click += new System.EventHandler(this.miSaveAs_Click);
             // 
             // miOpen
             // 
             this.miOpen.Name = "miOpen";
-            this.miOpen.Size = new System.Drawing.Size(118, 22);
+            this.miOpen.Size = new System.Drawing.Size(152, 22);
             this.miOpen.Text = "Open..";
             this.miOpen.Click += new System.EventHandler(this.miOpen_Click);
             // 
             // miClose
             // 
             this.miClose.Name = "miClose";
-            this.miClose.Size = new System.Drawing.Size(118, 22);
+            this.miClose.Size = new System.Drawing.Size(152, 22);
             this.miClose.Text = "Close";
             this.miClose.Click += new System.EventHandler(this.miClose_Click);
             // 
@@ -225,11 +226,19 @@
             // 
             this.ofdMusic.FileName = "openFileDialog1";
             // 
+            // tbShowLocations
+            // 
+            this.tbShowLocations.Location = new System.Drawing.Point(281, 215);
+            this.tbShowLocations.Name = "tbShowLocations";
+            this.tbShowLocations.Size = new System.Drawing.Size(326, 20);
+            this.tbShowLocations.TabIndex = 16;
+            // 
             // TuneStore
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(619, 250);
+            this.Controls.Add(this.tbShowLocations);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.tbLocation);
             this.Controls.Add(this.label5);
@@ -279,6 +288,7 @@
         private System.Windows.Forms.ToolStripMenuItem miClose;
         private System.Windows.Forms.ToolStripMenuItem miInformation;
         private System.Windows.Forms.ToolStripMenuItem miAbout;
+        private System.Windows.Forms.TextBox tbShowLocations;
     }
 }
 
