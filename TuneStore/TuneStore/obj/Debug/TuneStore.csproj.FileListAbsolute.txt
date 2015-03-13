@@ -7,3 +7,6 @@ C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj
 C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.csproj.GenerateResource.Cache
 C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.exe
 C:\Users\daanvdw98\Documents\Visual Studio 2012\Projects\TuneStore\TuneStore\obj\Debug\TuneStore.pdb
+C:\Users\daanvdw98\Documents\GitHub\TunesStore\TuneStore\TuneStore\bin\Debug\TuneStore.exe.config
+C:\Users\daanvdw98\Documents\GitHub\TunesStore\TuneStore\TuneStore\obj\Debug\TuneStore.exe
+C:\Users\daanvdw98\Documents\GitHub\TunesStore\TuneStore\TuneStore\obj\Debug\TuneStore.pdb
