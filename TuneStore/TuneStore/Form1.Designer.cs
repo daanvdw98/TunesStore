@@ -51,7 +51,6 @@
             this.btnShow = new System.Windows.Forms.Button();
             this.sfdMusic = new System.Windows.Forms.SaveFileDialog();
             this.ofdMusic = new System.Windows.Forms.OpenFileDialog();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -226,22 +225,11 @@
             // 
             this.ofdMusic.FileName = "openFileDialog1";
             // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(243, 213);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(80, 17);
-            this.checkBox1.TabIndex = 16;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
             // TuneStore
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(619, 250);
-            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.tbLocation);
             this.Controls.Add(this.label5);
@@ -291,7 +279,6 @@
         private System.Windows.Forms.ToolStripMenuItem miClose;
         private System.Windows.Forms.ToolStripMenuItem miInformation;
         private System.Windows.Forms.ToolStripMenuItem miAbout;
-        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
 
